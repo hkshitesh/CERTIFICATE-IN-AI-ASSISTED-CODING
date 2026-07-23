@@ -27,3 +27,7 @@ https://drive.google.com/drive/folders/13e_ZrLS8XVh_MnUU0Y-8Z9zXaLbOCaVG?usp=sha
 ## expenseflow Project Link
 
 https://github.com/hkshitesh/expenseflow
+
+## API URL
+
+http://127.0.0.1:8000/docs
